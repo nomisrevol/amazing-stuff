@@ -1,8 +1,8 @@
 Simplified BSD License
 
 ## Current Implementation Status
-- [x] Level
-- [x] Score
+- [ ] Level
+- [ ] Score
 - [ ] Highscore
 - [ ] Start game menu
 - [ ] Background Music
